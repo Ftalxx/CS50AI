@@ -17,9 +17,9 @@ In the Hollywood film industry, any actor can be connected to another within six
     Unzip the downloaded file.
 
 - Understand the Data Files
-    ```people.csv```: Contains a unique ID for each person, their name, and birth year.
-    ```movies.csv```: Contains a unique ID for each movie, its title, and the year it was released.
-    ```stars.csv```: Establishes the relationship between people and movies, listing which actors starred in which films.
+    - ```people.csv```: Contains a unique ID for each person, their name, and birth year.
+    - ```movies.csv```: Contains a unique ID for each movie, its title, and the year it was released.
+    - ```stars.csv```: Establishes the relationship between people and movies, listing which actors starred in which films.
 
 ## Running the Project
 
