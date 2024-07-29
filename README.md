@@ -33,20 +33,24 @@ In the Hollywood film industry, any actor can be connected to another within six
     The shortest_path function uses breadth-first search to find the shortest path between the two actors based on their movie connections. It returns a list of (movie_id, person_id) pairs representing the path.
 
 - Run the Program
-    # $ python degrees.py large
+    ```python
+    $ python degrees.py large
+    ```
     Enter the names of the actors when prompted. The program will output the number of degrees of separation and the sequence of movies connecting them.
   
 ## Example Usage
 
-# $ python degrees.py large
-# Loading data...
-# Data loaded.
-# Name: Emma Watson
-# Name: Jennifer Lawrence
-# 3 degrees of separation.
-# 1: Emma Watson and Brendan Gleeson starred in Harry Potter and the Order of the Phoenix
-# 2: Brendan Gleeson and Michael Fassbender starred in Trespass Against Us
-# 3: Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
+```python
+$ python degrees.py large
+Loading data...
+Data loaded.
+Name: Emma Watson
+Name: Jennifer Lawrence
+3 degrees of separation.
+1: Emma Watson and Brendan Gleeson starred in Harry Potter and the Order of the Phoenix
+2: Brendan Gleeson and Michael Fassbender starred in Trespass Against Us
+3: Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
+```
 
 ## Implementation Details
 - Data Structures: Dictionaries for names, people, and movies.
