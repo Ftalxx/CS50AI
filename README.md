@@ -1,5 +1,5 @@
 # Degrees Program
-Welcome to my attempt to solve and navigate through CS50's Introduction to Artificial Intelligence with Python projects! This one is from Lesson 0.
+Welcome to my attempt to solve and navigate through CS50's Introduction to Artificial Intelligence with Python projects! This one is from Lesson 0. Due to licensing issues, I will not be showcasing the code (solution) itself but will include comments/documentation (Pseudocode), example inputs/outputs and descriptions.
 
 ## Project Purpose
 The goal of this project is to determine the number of "degrees of separation" between two actors, similar to the "Six Degrees of Kevin Bacon" game. This involves finding the shortest path between any two actors by identifying the sequence of movies connecting them.
